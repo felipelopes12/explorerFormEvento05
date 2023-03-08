@@ -1,8 +1,6 @@
 # Projeto Html/Css
 
-<h1 align="center">
-  <img alt="https://i.imgur.com/WcbWd2Z.png" />
-</h1>
+<h1 align="center"></h1>
 
 <br>
 
